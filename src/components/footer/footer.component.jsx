@@ -21,7 +21,7 @@ const Footer = () => {
           <BrandSlogan>Where fashion meets comfort</BrandSlogan>
           <SocialIcons>
             <a
-              href="https://github.com/mittal0802/urbanStyle"
+              href="https://github.com/Vedantchhn"
               target="_blank"
               className="github_icon"
               rel="noreferrer"
@@ -29,7 +29,7 @@ const Footer = () => {
               <Github />
             </a>
             <a
-              href="https://www.instagram.com/keshav2002_/"
+              href="https://www.instagram.com/__vedant_chauhan__/"
               target="_blank"
               className="instagram_icon"
               rel="noreferrer"
@@ -37,7 +37,7 @@ const Footer = () => {
               <Instagram />
             </a>
             <a
-              href="https://twitter.com/Keshav75519824"
+              href="https://www.instagram.com/__vedant_chauhan__/"
               target="_blank"
               className="twitter_icon"
               rel="noreferrer"
@@ -45,7 +45,7 @@ const Footer = () => {
               <Twitter />
             </a>
             <a
-              href="https://www.linkedin.com/in/keshav-mittal-43588b1a1/"
+              href="https://www.linkedin.com/in/vedant-chauhan-a35728230/"
               target="_blank"
               rel="noreferrer"
               className="linkedin_icon"
